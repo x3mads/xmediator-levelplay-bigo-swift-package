@@ -8,8 +8,8 @@ use the LevelPlay Bigo adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-bigo-swift-package.git`) and select the `LevelPlayBigoAdapter` product.
-Version `5.12.0` of this package corresponds to LevelPlay adapter
-`5.12.0` (<https://github.com/ironsource-mobile/LevelPlay-Bigo-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.13.0` of this package corresponds to LevelPlay adapter
+`5.13.0` (<https://github.com/ironsource-mobile/LevelPlay-Bigo-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 Bigo adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
